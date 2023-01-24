@@ -1,5 +1,5 @@
 <?php
 echo "Hello World!<br>";
 echo "<br>";
-phpinfo();
+echo "Nous sommes le " . date("d/m/Y") . ", il est " . date("H:i") . ".<br>";
 ?>
